@@ -246,26 +246,10 @@ The `cat_to_name.json` file maps numerical class labels to flower species names.
 }
 ```
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
 - Dataset: [Oxford 102 Flower Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 - Pre-trained models: PyTorch's torchvision.models
 - Framework: PyTorch
-
-## Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
